@@ -22,10 +22,6 @@ require("lazy").setup({
     import = "nvchad.plugins",
   },
 
-     {
-        "3rd/image.nvim",
-        opts = {}
-    },
   { import = "plugins" },
 }, lazy_config)
 
